@@ -291,12 +291,13 @@ text-align: center;
   background-color: var(--text-color-light);
   border-radius: 50%;
   margin-top: .25rem;
+  top: 16px;
 }
 .educacion__linea,
 .experiencia__linea{
   display: block;
   width: 2px;
-  height: 110%;
+  height: 119%;
   background-color: var(--text-color-light);
   transform: translate(7px, 0);
 }
